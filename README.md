@@ -4,7 +4,12 @@ This is a demo Proof-Of-Concept project for Thread Replies to chat messages.
 - data_flow      : This defines data linking between message -> thread_replies.
 - wire_frames    : Defines the look and feel of main message screen and thread_replies.
 - src            : Root folder for all components for Chat-Screen.
-- design_doc.txt : Feature document to define working & implementation. 
+- design_doc.txt : Feature document to define working & implementation.
+
+# Main-Screen
+
+<img width="1709" alt="thread_reply" src="https://github.com/user-attachments/assets/f3b61ce1-7706-43ba-bfbf-143d66e12588">
+
 
 # Getting Started
 
