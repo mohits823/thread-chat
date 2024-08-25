@@ -1,0 +1,13 @@
+Feature : Thread Replies to message.
+
+Description : This feature is defined to create a new component called Thread_Replies, which gives a seperate view for user/users to reply in thread.
+
+Acceptance Criteria :
+1. When user send a message in a chat, he or another person part of this conversation should be able to reply in thread.
+2. When user clicks on 'Reply' should open a new component of thread_replies.
+   - Message component to pass message_id to new component of thread_replies.
+3. When Thread component should consume props as message_id and get all information of message from data_source.
+   - This component should provide below features ,
+    i.    Create thread reply to a message.
+    ii.   Component should show count of replies and list of replies in thread.
+    iii.  Once Thread reply created, Replies to be pushed with linking message_id & reply_id.
