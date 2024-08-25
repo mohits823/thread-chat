@@ -1,3 +1,6 @@
+# thread-chat
+This is a demo POC project for Thread Replies to chat messages.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
